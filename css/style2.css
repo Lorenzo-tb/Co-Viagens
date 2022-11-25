@@ -1,0 +1,161 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+body{
+    background-color: #90b5e9;
+}
+
+a{
+    color: #000;
+    text-decoration: none;
+}
+
+header{
+    background-color: #4150a8;
+    height: 7vh;
+    width: 100%;
+    margin-top: -16%;
+    position: fixed;
+    z-index: 1;
+}
+
+#logoImg{
+    width: 10vw;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+#hamburguer{
+    float: right;
+}
+
+#co{
+    display: inline-block;
+}
+
+
+#opcoes{
+    margin-top: 16%;
+    margin-left: 8%;
+    font-weight: bold;
+}
+.pessoas{
+    display: inline-block;
+    margin-right: 5%;
+}
+
+.circulo{
+    background-color: #4960DE;
+    width: 56px;
+    height: 56px;
+    border: solid 2px;
+    border-radius: 100px;
+}
+
+.img{
+    margin-left: 7%;
+}
+
+#hotel{
+    margin-top: 5%;
+}
+
+#principais{
+    text-align: center;
+    margin-top: 4%;
+}
+
+#carroQuadrado{
+    background-color: #4960DE;
+    width: 294px;
+    height: 164px;
+    border: solid 1.5px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#espanha{
+    width: 254px;
+    height: 108px;
+    margin-left: 6.5%;
+    margin-top: 3%;
+    border-radius: 5px;
+}
+
+#estil{
+    text-align: center;
+    color: #fff;
+    margin-top: 2%;
+}
+
+#bol{
+    width: 13px;
+    height: 13px;
+    background-color: #fff;
+    border: solid 1px;
+    border-radius: 100px;
+    display: inline-block;
+}
+
+.bolinhas{
+    width: 13px;
+    height: 13px;
+    background-color: #4960DE;
+    border: solid 1px;
+    border-radius: 100px;
+    display: inline-block;
+}
+
+#bolas{
+    text-align: center;
+    margin-top: 3%;
+}
+
+#barra{
+    width: 252px;
+    height: 35px;
+    border-radius: 20px;
+}
+
+#pesquisa{
+    text-align: center;
+    margin-top: 3%;
+}
+
+#prox{
+    text-align: center;
+    margin-top: 6%;
+}
+
+#viajantes{
+    display: flex;
+    gap: 5%;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 2%;
+}
+
+.pessoinhaQuadrada{
+    background-color: #4960DE;
+    width: 111px;
+    height: 97px;
+    border: solid 2px;
+    border-radius: 20px;
+}
+
+#person{
+    width: 90px;
+    margin-left: 10%;
+}
+
+.pessoa{
+    text-align: center;
+    margin-top: 2%;
+}
+
+.pessoinha{
+    margin-top: 5%;
+}

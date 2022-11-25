@@ -1,0 +1,87 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #90b5e9;
+}
+
+a{
+    color: #000;
+}
+
+#logo{
+    width: 305px;
+    height: 215px;
+    margin-top: 10%;
+    margin-left: 7%;
+    border-radius: 20px;
+    background-color: #4150a8;
+}
+
+#logoImg{
+    width: 118px;
+    height: 118px;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+
+#nome{
+    margin-left: 23.5%;
+    
+}
+
+
+#usuario{
+    width: 244px;
+    height: 44px;
+    background-color: #fff;
+    margin-left: 15%;
+    margin-top: 10%;
+    border: solid 2px;
+    border-radius: 5px;
+    font-size: 1.5rem;
+}
+
+#senha{
+    width: 244px;
+    height: 44px;
+    background-color: #fff;
+    margin-left: 15%;
+    margin-top: 5%;
+    border: solid 2px;
+    border-radius: 5px;
+    font-size: 1.5rem;
+}
+
+#butao{
+    width: 156px;
+    height: 53px;
+    border: solid 2px;
+    border-radius: 12px;
+    font-size: 1.5rem;
+    margin-left: 29%;
+    margin-top: 5%;
+}
+
+#coisinhas{
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.quadrado{
+    width: 8px;
+    height: 8px;
+    display: inline-block;
+    background-color: #fff;
+    border: solid 2px #000;
+}
+
+.cois{
+    margin-top: -3%;
+}
+.left{
+    text-decoration: underline;
+    display: inline-block;
+}
+

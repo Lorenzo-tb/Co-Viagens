@@ -1,0 +1,70 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #90b5e9;
+}
+
+a{
+    color: #000;
+}
+
+#loguinho{
+    width: 20vw;
+}
+
+#fotoAqui{
+    background-color: #4150a8;
+    width: 156px;
+    height: 156px;
+    border: solid 2px;
+    border-radius: 100px;
+    margin-left: 28%;
+}
+
+#inserir{
+    margin-top: 32%;
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+#foto{
+    font-size: 1.3rem;
+    text-align: center;
+    margin-top: -10%;
+}
+
+.usuario{
+    width: 244px;
+    height: 30px;
+    background-color: #fff;
+    margin-left: 13%;
+    margin-top: 5%;
+    border: solid 2PX;
+    border-radius: 5px;
+    font-size: 1.2rem;
+}
+
+#butao{
+    width: 156px;
+    height: 53px;
+    border: solid 2px;
+    border-radius: 12px;
+    font-size: 1.3rem;
+    margin-left: 27.5%;
+    margin-top: 5%;
+}
+
+.quadrado{
+    width: 8px;
+    height: 8px;
+    display: inline-block;
+    background-color: #fff;
+    border: solid 2px #000;
+}
+
+.left{
+    text-decoration: underline;
+    display: inline-block;
+}

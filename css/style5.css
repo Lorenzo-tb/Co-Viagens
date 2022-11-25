@@ -1,0 +1,90 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+body{
+    background-color: #90b5e9;
+}
+
+a{
+    color: #000;
+    text-decoration: none;
+}
+
+header{
+    background-color: #4150a8;
+    height: 7vh;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+}
+
+#logoImg{
+    width: 10vw;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+#hamburguer{
+    float: right;
+}
+
+#titulo{
+    width: 98px;
+    height: 43px;
+    background-color: #4960DE;
+    border: solid 2px;
+    border-radius: 5px;
+    margin-top: 18%;
+    margin-left: 5%;
+    display: inline-block;
+}
+
+#perfil{
+    text-align: center;
+    margin-top: 10%;
+}
+
+#barra{
+    width: 230px;
+    height: 35px;
+    border-radius: 20px;
+}
+
+#pesquisa{
+    display: inline-block;
+    margin-left: 1%;
+}
+
+.carroQuadrado{
+    background-color: #4960DE;
+    width: 294px;
+    height: 210px;
+    border: solid 1.5px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+#co{
+    display: inline-block;
+}
+.espanha{
+    width: 254px;
+    height: 108px;
+    margin-left: 6.5%;
+    margin-top: 3%;
+    border-radius: 5px;
+}
+
+.estil{
+    text-align: center;
+    color: #fff;
+    margin-top: 2%;
+}
+
+#tudo{
+    margin-top: 10%;
+}
